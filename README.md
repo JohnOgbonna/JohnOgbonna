@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Django, Angular**
 
-- 👨‍💻 All of my projects are available at [www.johnogbonna.com](www.johnogbonna.com)
+- 👨‍💻 All of my projects are available at [[www.johnogbonna.com](www.johnogbonna.com)](https://github.com/JohnOgbonna/)
 
 - 💬 Ask me about **react, javascript, front end development**
 
