@@ -25,7 +25,7 @@
 ### Web Application Projects
 
 1. [Crunchee Munchies Web Client](https://cruncheemunchies-ee6b3.web.app)
-2. [My Bio Website]((https://github.com/JohnOgbonna/johnogbonna.com))
+2. [My Bio Website](https://github.com/JohnOgbonna/johnogbonna.com)
 3. [Crunchie Munchies Server Repository](https://github.com/JohnOgbonna/cruncheeMunchiesServer)
 4. [Katie Krukoff Bio Website](www.katiekrukoff.xyz)
 
