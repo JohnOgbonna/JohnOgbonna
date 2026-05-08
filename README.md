@@ -30,7 +30,7 @@ Building scalable web applications, cloud infrastructure, and modern e-commerce 
 Modern e-commerce platform built with Next.js, AWS, and PostgreSQL
 
 - Live Site: https://crunchee-munchies.com
-- GitHub: https://github.com/JohnOgbonna/cruncheemunchiesClient
+- GitHub: https://github.com/JohnOgbonna/crunchee-munchies-v2
 
 🌍 **Portfolio Website**  
 - https://johnogbonna.com
