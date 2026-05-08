@@ -1,32 +1,94 @@
-<h1 align="center">Hi 👋, I'm John!</h1>
-<h3 align="center">Cloud and Full Stack developer based in Calgary, AB</h3>
+```md
+<h1 align="center">Hi 👋, I'm John Ogbonna</h1>
 
-- 🔭 I’m currently working on [cruchieemunchies.com](https://github.com/JohnOgbonna/cruncheemunchiesClient)
+<h3 align="center">
+Full Stack & Cloud Developer based in Calgary, Alberta 🇨🇦
+</h3>
 
-
-- 👨‍💻 All of my projects are available at [[www.johnogbonna.com](www.johnogbonna.com)](https://github.com/JohnOgbonna/)
-
-- 💬 Ask me about **DevOps, Cloud Development, CI/CD Pipelines**
-
-- 📫 How to reach me **johnny.ogb@gmail.com**
-
-- ⚡ Fun fact **I like to work hard**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/johnogbonna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnogbonna" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications, cloud infrastructure, and modern e-commerce platforms.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
 
-###  Quick Links:
+- 🔭 Currently building **Crunchee Munchies** — a modern e-commerce platform for Nigerian snacks
+- ☁️ Passionate about **Cloud Architecture, DevOps, and Full Stack Development**
+- 🛠️ Experienced with **React, Next.js, Node.js, AWS, PostgreSQL, CI/CD**
+- 🌱 Currently improving my skills in **AWS Infrastructure & scalable system design**
+- 💬 Ask me about **AWS, CI/CD Pipelines, React, APIs, and DevOps**
+- 📫 Reach me at: **johnny.ogb@gmail.com**
+- ⚡ Fun fact: I enjoy solving difficult technical problems and building things from scratch
 
-1. [Crunchee Munchies Web Client](https://crunchee-munchies.com)
-2. [My Bio Website](https://john.ogbonna.com)
+---
 
+## 🌐 Portfolio & Projects
 
+### Featured Projects
 
+🚀 **Crunchee Munchies**  
+Modern e-commerce platform built with Next.js, AWS, and PostgreSQL
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnogbonna&show_icons=true&locale=en&layout=compact" alt="johnogbonna" /></p>
+- Live Site: https://crunchee-munchies.com
+- GitHub: https://github.com/JohnOgbonna/cruncheemunchiesClient
+
+🌍 **Portfolio Website**  
+- https://johnogbonna.com
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/johnogbonna" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnogbonna" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,sass" />
+</p>
+
+### Backend & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase" />
+</p>
+
+### Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions" />
+</p>
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,c" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JohnOgbonna&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnOgbonna&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Build scalable cloud-native applications
+- Deepen AWS & DevOps expertise
+- Contribute to impactful engineering teams
+- Continue growing Crunchee Munchies
+
+```
