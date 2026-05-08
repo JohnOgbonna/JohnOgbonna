@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm John Ogbonna</h1>
 
 <h3 align="center">
@@ -91,4 +90,3 @@ Modern e-commerce platform built with Next.js, AWS, and PostgreSQL
 - Contribute to impactful engineering teams
 - Continue growing Crunchee Munchies
 
-```
