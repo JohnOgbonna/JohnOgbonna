@@ -54,7 +54,7 @@ Modern e-commerce platform built with Next.js, AWS, and PostgreSQL
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,sass,javascript" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,sass,javascript" />
 </p>
 
 ### Backend & Databases
