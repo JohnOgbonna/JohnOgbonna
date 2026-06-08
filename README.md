@@ -24,6 +24,9 @@ Building scalable web applications, cloud infrastructure, and modern e-commerce 
 
 ## 🌐 Portfolio & Projects
 
+🌍 ### Dev Articles
+- Dev.to: https://dev.to/johnogbonna/
+
 ### Featured Projects
 
 🚀 **Crunchee Munchies**  
