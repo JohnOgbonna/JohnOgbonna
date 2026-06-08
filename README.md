@@ -54,7 +54,7 @@ Modern e-commerce platform built with Next.js, AWS, and PostgreSQL
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,sass" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,sass,javascript" />
 </p>
 
 ### Backend & Databases
@@ -64,27 +64,14 @@ Modern e-commerce platform built with Next.js, AWS, and PostgreSQL
 
 ### Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,azure,kubernetes" />
 </p>
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,c" />
+<img src="https://skillicons.dev/icons?i=python,typescript" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JohnOgbonna&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnOgbonna&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🎯 Current Goals
 
